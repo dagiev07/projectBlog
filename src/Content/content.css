@@ -1,0 +1,81 @@
+.content {
+  width: 1240px;
+  margin: 0 auto;
+}
+
+.content__item {
+  display: flex;
+  justify-content: space-between;
+}
+.left img {
+  width: 300px;
+}
+
+.right {
+  width: 500px;
+}
+
+.right img {
+  width: 500px;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px auto;
+  width: 1240px;
+}
+
+.lake-image img {
+  border-radius: 20px;
+  width: 776px;
+}
+.lake-image h1 {
+  height: 20px;
+  color: white;
+  position: absolute;
+  top: 600px;
+  left: 300px;
+
+}
+.lake-image p {
+  height: 20px;
+  color: white;
+  position: absolute;
+  top: 650px;
+  left: 327px;
+
+}
+.main__image img {
+  width: 495px;
+  height: 289px;
+  border-radius: 20px;
+  padding-left: 5px;
+}
+
+.posts {
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.advertising {
+  display: flex;
+}
+
+.advertising p {
+  font-weight: 700;
+}
+
+.advertising div {
+  padding: 5px;
+}
+
+.advertising img {
+  width: 300px;
+  height: 60%;
+}
+
+.left__item {
+  display: flex;
+  text-align: center;
+}

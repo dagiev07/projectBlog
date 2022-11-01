@@ -1,0 +1,13 @@
+.one-post {
+  color: black;
+  text-align: center;
+}
+
+.one-post img {
+  width: 50%;
+}
+
+.one-post-info{
+  width: 900px;
+  margin: auto;
+}
